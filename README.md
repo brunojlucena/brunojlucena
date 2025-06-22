@@ -56,11 +56,17 @@ Busco constantemente evoluir tecnicamente e contribuir com soluções orientadas
 <table>
   <tr>
     <td>
-      <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=brunojlucena&theme=dark&show_icons=true&include_all_commits=true" />
+      <!-- Exibe as estatísticas gerais do perfil com ícones e tema escuro -->
+      <img alt="GitHub Stats" height="200" 
+           src="https://github-readme-stats.vercel.app/api?username=brunojlucena&theme=dark&show_icons=true" />
     </td>
     <td>
-      <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunojlucena&layout=compact&theme=dark" />
+      <!-- Exibe as linguagens mais usadas no perfil com layout compacto e tema escuro -->
+      <img alt="Top Langs" height="200" 
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunojlucena&layout=compact&theme=dark" />
     </td>
   </tr>
 </table>
+
+
 
